@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chapter7_last</string>
+    <string name="aScore">0</string>
+    <string name="bScore">0</string>
+    <string name="button1" translatable="false">add</string>
+    <string name="button2">reduce</string>
+    <string name="button3">add</string>
+    <string name="button4">reduce</string>
+</resources>
